@@ -1,31 +1,44 @@
-# Umangini Naik - Personal Portfolio
+# vCard - Personal portfolio
 
-Expert WordPress & Webflow Developer
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-## About Me
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-An Expert Web developer with over 7+ years experience in setup and customization of WordPress themes and plugins as well as Webflow sites.
+## Demo
 
-➤ My Main Strengths:<br>
-❆ Professional Looking & Top Quality Websites.<br>
-❆ Mobile Responsive and Quick loading.<br>
-❆ E-Commerce, Real Estate , Listing Websites.<br>
-❆ Theme & Plugin Customization.<br>
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-➤ WordPress-specific skills:<br>
-❆ Installation, configuration, and maintenance.<br>
-❆ Theme development and customization.<br>
-❆ Plugin customization.<br>
-❆ E-commerce development (WooCommerce).<br>
-❆ SEO, speed and performance optimization, security.<br>
-❆ Moving sites to new hostings, domain migration.<br><br>
+## Prerequisites
 
-➤ WordPress Speed Optimization<br>
-❆ Google page speed insight<br>
-❆ GTmetrix<br>
-❆ Advanced Gutenberg<br>
-❆ Defar Parsing JavaScript<br>
-❆ Image Optimization, Next Generation Image Optimization<br>
-❆ Minifying JavaScript<br>
-❆ Minifying CSS<br>
-❆ Minifying HTML<br>
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+## Installing vCard
+
+To install **vCard**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+
+## License
+
+MIT
