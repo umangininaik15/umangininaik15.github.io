@@ -1886,3 +1886,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     list-style: disc;
     margin-left: 15px;
 }
+
+.avatar-box img{
+	border-radius: 30px;
+}
