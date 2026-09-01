@@ -1880,3 +1880,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.timeline-item li {
+    color: #fff;
+    list-style: disc;
+    margin-left: 15px;
+}
